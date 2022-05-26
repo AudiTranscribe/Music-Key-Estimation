@@ -1,4 +1,7 @@
 jupyter
-pandas
+librosa
+matplotlib
 notebook
+pandas
+seaborn
 tensorflow
