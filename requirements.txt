@@ -7,4 +7,5 @@ pandas
 scikit-learn
 seaborn
 tensorflow
+tensorflowjs
 tqdm
